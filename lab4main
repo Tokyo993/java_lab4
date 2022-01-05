@@ -898,7 +898,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-//        task1();
-        task2();
+        task1();//Вызов задания 1
+        task2();//Вызов задания 2
     }
 }
